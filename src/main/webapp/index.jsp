@@ -58,7 +58,7 @@
 
 <header>
     <h1>Sachin Tribhuvan</h1>
-    <p>Software Engineer | Web Developer</p>
+    <p> devops engineer</p>
 </header>
 
 <nav>
@@ -99,7 +99,7 @@
 
 <section id="contact">
     <h2>Contact</h2>
-    <p>Email: sachin@email.com</p>
+    <p>Email: tribhuvansachi80@gmail.com</p>
     <p>Mobile: +91 XXXXX XXXXX</p>
 </section>
 
