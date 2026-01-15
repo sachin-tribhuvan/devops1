@@ -72,7 +72,7 @@
     <h2>About Me</h2>
     <p>
         I am an engineering student with interest in web development and software design.
-        I love building simple and useful applications using HTML, CSS, JavaScript.
+    
     </p>
 </section>
 
